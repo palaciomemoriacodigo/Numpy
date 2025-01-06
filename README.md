@@ -1,1 +1,7 @@
 # Numpy
+
+## Ejercicios
+
+## POO
+
+## Teoria
